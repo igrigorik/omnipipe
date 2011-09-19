@@ -1,5 +1,5 @@
 source "http://rubygems.org"
 
 gem 'goliath'
-gem 'em-http'
-gem 'yajl'
+gem 'em-http-request'
+gem 'yajl-ruby'
