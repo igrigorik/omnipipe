@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/" xmlns:ms="http://www.mozilla.org/2006/browser/search/" xmlns:moz="http://www.mozilla.org/2006/browser/search/">
+<ShortName>Omnipipe</ShortName>
+<Description>Web pipes</Description>
+<Tags>Omnipipe</Tags>
+<Url type="text/html" template="http://omnipipe.heroku.com/cmd?cmd={searchTerms}&amp;ref=opensearch"/>
+<Contact>ilya@igvita.com</Contact>
+<Image width="16" height="16">http://www.google.com/favicon.ico</Image>
+<InputEncoding>UTF-8</InputEncoding>
+<OutputEncoding>UTF-8</OutputEncoding>
+<ms:SearchForm>http://omnipipe.heroku.com/</ms:SearchForm>
+<moz:SearchForm>http://omnipipe.heroku.com/</moz:SearchForm>
+<moz:UpdateUrl>http://omnipipe.heroku.com/opensearch.xml</moz:UpdateUrl>
+<moz:IconUpdateUrl>http://www.google.com/favicon.ico</moz:IconUpdateUrl>
+<moz:UpdateInterval>7</moz:UpdateInterval>
+</OpenSearchDescription>

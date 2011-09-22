@@ -1,1 +1,1 @@
-web: bundle exec ruby omnipipe.rb -sv -e prod -p $PORT
+web: bundle exec ruby -I. server.rb -sv -e prod -p $PORT
